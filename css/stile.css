@@ -1,0 +1,41 @@
+#season_pass{
+    transition: 0.5s;
+}
+
+#season_pass:hover{
+    transform: scale(1.05);
+}
+#body_modal{
+    background-image: url(../imagenes/god.jpg);
+}
+.modal-title{
+    font-size: 50px;
+}
+main{
+    padding-top: 140px;
+}
+.card_css{
+    border-radius: 30px;
+    overflow: hidden;
+}
+header .navbar {
+    z-index: 1000;
+}
+.modal{
+    z-index: 2050;
+}
+.img_fnd {
+    background-image: url('../imagenes/fondo.jpg');
+    background-size: cover;
+    background-position: top;
+    height: 575px;
+    padding: 0%;
+    border: 0cap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
+.titulo{
+    margin-bottom: 250px;
+}
