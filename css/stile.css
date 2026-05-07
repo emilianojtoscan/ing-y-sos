@@ -37,5 +37,21 @@ header .navbar {
     color: rgb(255, 255, 255);
 }
 .titulo{
-    margin-bottom: 250px;
+    margin-bottom: 180px;
+}
+#cof{
+    color: white;
+    font-size: 30px;
+}
+#p_card{
+    margin-top: 100px;
+
+}
+.card-header{
+    width: 100%;
+    background-image: url(../imagenes/fondo_skin.png);
+}
+.modal-content{
+    width: 100%;
+    background-image: url(../imagenes/fondo_t.jpg);
 }
