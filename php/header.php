@@ -10,7 +10,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark position-fixed w-100">
             <div class="container">
                 <a id="season_pass" class="navbar-brand" href="#" data-bs-toggle="modal" data-bs-target="#season_modal">
-                    <img src="../imagenes/logo.png" alt="" height="120" width="400" class="me-2">
+                    <img src="../imagenes/pase_2 (2).png" alt="" height="120" width="400" class="me-2">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu">
                     <span class="navbar-toggler-icon"></span>
