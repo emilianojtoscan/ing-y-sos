@@ -1,6 +1,6 @@
 <?php include "header.php"; ?>
 <main>
-    <div class="flex-column">
+    <div class="flex-column mt-4">
         <h1 class="text-center">Bienvenido a la tienda</h1>
     </div>
     <h2 class="container text-center " id="dest">Skins destacadas</h2>
