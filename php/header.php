@@ -18,7 +18,7 @@
                 <div class="collapse navbar-collapse " id="menu">
                     <ul class="navbar-nav ms-auto align-items-center ">
                         <li class="nav-item">
-                            <a href="tienda.php" class="nav-link">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#tienda_modal">
                                 <img src="../imagenes/protogemas.png" alt="" height="120">
                             </a>
                         </li>
@@ -39,4 +39,5 @@
         </nav>
         <?php include "season_pass.php"; ?>
         <?php include "login.php"; ?>
+        <?php include "tienda_2.php"; ?>
     </header>
